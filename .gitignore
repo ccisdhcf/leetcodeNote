@@ -1,0 +1,8 @@
+/.idea/*
+/.vs/*
+/.vscode/*
+/leetcode_VS/*
+/venv/*
+main.py
+test.cpp
+test.exe
